@@ -5,6 +5,7 @@
 - Create conda environment: *conda create -n ml-env-py36 python=3.6*
 - Activate ml-env-py36 environment: *conda activate ml-env-py36*
 - Install packages: *conda install pandas matplotlib numpy scikit-learn seaborn*
+- Install Jupyter Notebook: *conda install -c conda-forge notebook*
 - Install ipykernel: *conda install -c anaconda ipykernel*
 - Make ml-env-py36 environment visible in jupyter as a kernel: *python -m ipykernel install --user --name=ml-env-py36*
 - Start jupyter notebook in default web browser by typing in terminal: *jupyter notebook*
