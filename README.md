@@ -10,4 +10,12 @@
 - Make ml-env-py36 environment visible in jupyter as a kernel: *python -m ipykernel install --user --name=ml-env-py36*
 - Start jupyter notebook in default web browser by typing in terminal: *jupyter notebook*
 
+# References
+- Pandas: https://pandas.pydata.org/docs/index.html
+- Matplotlib: https://matplotlib.org/
+- Numpy: https://numpy.org/
+- Scikit-Learn: https://scikit-learn.org/stable/
+- Seaborn: https://seaborn.pydata.org/
+- Jupyter: https://jupyter.org/
+- SciPy: https://scipy.org/
 
